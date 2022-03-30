@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610379612 source:c:\users\hp\documents\sum until reduced to 1digit\main.c
+	<stdio.h>
+	<stdlib.h>
+

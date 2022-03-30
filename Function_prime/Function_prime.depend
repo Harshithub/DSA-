@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611745450 source:c:\users\hp\documents\function_prime\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1611745771 source:h:\programming of c\function_prime\main.c
+	<stdio.h>
+	<stdlib.h>
+

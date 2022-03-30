@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616089439 source:c:\users\hp\documents\prime numbers between range\main.c
+	<stdio.h>
+	<stdlib.h>
+

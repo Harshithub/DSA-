@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611743687 source:c:\users\hp\documents\function_factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

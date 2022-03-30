@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609923368 source:c:\users\hp\documents\temperature converter\main.c
+	<stdio.h>
+	<stdlib.h>
+
