@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633587183 source:h:\codeblocks\exp technical student struct\main.cpp
+	<iostream>
+	<stdio.h>
+
